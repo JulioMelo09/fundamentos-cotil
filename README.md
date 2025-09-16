@@ -1,6 +1,11 @@
 # fundamentos-cotil
 # fundamentos de informatica 
+## sobre mim
 
-este repositório contem os exercícios e anotações da disciplina.
-Um repositório para os arquivos da disciplina de Fundamentos.
+
+
+Meu nome é **Júlio César**, tenho 16 anos e more em *Limeira SP*. Gosto de jogas jogos de video games, basquete, escutar música e ver filmes e séries.
+
+
+
 
