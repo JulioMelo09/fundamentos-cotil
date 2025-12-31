@@ -4,7 +4,7 @@
 
 
 
-Meu nome é **Júlio César**, tenho 16 anos e more em *Limeira SP*. Gosto de jogas jogos de video games, basquete, escutar música e ver filmes e séries.
+Meu nome é **Júlio César**, tenho 16 anos e more em *Limeira SP*. Gosto de jogar jogos de video games, basquete, escutar música e ver filmes e séries.
 
 ### Habilidades
 
@@ -13,6 +13,7 @@ Meu nome é **Júlio César**, tenho 16 anos e more em *Limeira SP*. Gosto de jo
 -educação financeira
 -comunicação
 -HTML
+-CSS
 
 
 
